@@ -142,7 +142,7 @@
     "oZoneRest": "剩余时间",
     "oZoneAllDay": "全天",
     "oHeavyShowerAlert": "大型流星雨：预测自 {start} 至 {end}",
-    "oShowerAlert": "预测到 {list} 有流星",
+    "oShowerAlert": "有流星的“大致”时间段： {list}",
     "oTimeList1": "{0}",
     "oTimeList2": "{0} 和 {1}",
     "oUpcoming": "即将来临",
